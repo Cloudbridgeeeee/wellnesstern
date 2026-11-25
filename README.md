@@ -9,7 +9,7 @@ Marketing website and interactive product demonstration for WellnessTern.
 - Industry: SexTech, Manufacturing, Product Information Management
 - Founder: Nathan Chidiebere (Founder & CEO)
 - Co-founder: Omotola Akinyemi (Co-founder & CTO)
-- Contact: nathan@wellnesstern.top
+- Contact: nathan@wellnesstern.site
 - Business model: Managed product subscriptions
 
 ## Stack

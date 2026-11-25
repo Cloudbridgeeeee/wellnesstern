@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /workspace
 
-Sitemap: https://wellnesstern.top/sitemap.xml
+Sitemap: https://wellnesstern.site/sitemap.xml
