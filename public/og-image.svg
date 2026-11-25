@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <radialGradient id="r" cx="0.8" cy="0" r="0.9"><stop offset="0" stop-color="#8c1d3b" stop-opacity=".35"/><stop offset="1" stop-color="#f7f1ee" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#f7f1ee"/>
+  <rect width="1200" height="630" fill="url(#r)"/>
+  <g transform="translate(80 90) scale(1.4)"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8c1d3b"/><stop offset="1" stop-color="#c8875a"/></linearGradient></defs><circle cx="24" cy="24" r="16" fill="none" stroke="url(#g)" stroke-width="8"/><circle cx="40" cy="40" r="16" fill="none" stroke="#5d7f74" stroke-width="8"/></g>
+  <text x="190" y="150" font-family="Lora, Georgia, serif" font-size="54" font-weight="600" fill="#2a1418">WellnessTern</text>
+  <text x="80" y="330" font-family="Lora, Georgia, serif" font-size="72" font-weight="600" fill="#2a1418">Better product information</text>
+  <text x="80" y="414" font-family="Lora, Georgia, serif" font-size="72" font-weight="600" fill="#2a1418">for adult wellness supply</text>
+  <text x="80" y="498" font-family="Lora, Georgia, serif" font-size="72" font-weight="600" fill="#2a1418">chains.</text>
+  <text x="80" y="560" font-family="monospace" font-size="24" fill="#8c1d3b" letter-spacing="4">SEXTECH  ·  MANUFACTURING  ·  PRODUCT INFORMATION MANAGEMENT</text>
+</svg>

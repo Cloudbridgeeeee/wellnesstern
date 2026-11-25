@@ -1,0 +1,16 @@
+{
+  "name": "WellnessTern",
+  "short_name": "WellnessTern",
+  "description": "AI product information management software that helps adult wellness manufacturers organize specifications, supplier documents, approved descriptions and catalogue revisions.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f1ee",
+  "theme_color": "#f7f1ee",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
