@@ -13,9 +13,9 @@ const h = business.hero
 function Eyebrow({ center }: { center?: boolean }) {
   const i = useTicker(business.industries.length, 2600)
   return (
-    <div className={cn('animate-fade-up mb-7 inline-flex items-center gap-2 rounded-full border bg-surface/60 py-1 pl-1 pr-4 text-xs backdrop-blur hairline', center && 'mx-auto')}>
+    <div className={cn('animate-fade-up mb-7 inline-flex max-w-full items-center gap-2 rounded-full border bg-surface/60 py-1 pl-1 pr-1 text-xs backdrop-blur hairline sm:pr-4', center && 'mx-auto')}>
       <span className="rounded-full bg-accent px-2.5 py-1 font-medium text-on-accent">{h.eyebrow}</span>
-      <span key={i} className="animate-fade-in text-soft">{business.industries[i]}</span>
+      <span key={i} className="hidden animate-fade-in text-soft sm:inline">{business.industries[i]}</span>
     </div>
   )
 }
